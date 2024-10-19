@@ -1,3 +1,5 @@
+// Program prints a pattern displaying the word Java using print statements
+
 public class Main {
     public static void main(String [] args)
     {
